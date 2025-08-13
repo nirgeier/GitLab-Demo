@@ -9,7 +9,12 @@
     "test:integration": "./test.sh",
     "setup": "./setup.sh"
   },
-  "keywords": ["calculator", "nodejs", "math", "cli"],
+  "keywords": [
+    "calculator",
+    "nodejs",
+    "math",
+    "cli"
+  ],
   "author": "GitLab Demo",
   "license": "MIT",
   "engines": {

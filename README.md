@@ -40,5 +40,19 @@ npm start
 ## Testing
 
 ```bash
-npm test
+npm test                 # Run unit tests
+npm run test:integration # Run integration tests
+```
+
+## Additional Features
+
+The project also includes utility functions for advanced operations:
+- Power calculation
+- Square root
+- Factorial
+
+## Development
+
+```bash
+npm run setup  # Set up development environment
 ```
