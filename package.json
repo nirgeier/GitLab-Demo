@@ -5,9 +5,14 @@
   "main": "calc.js",
   "scripts": {
     "start": "node calc.js",
-    "test": "node calc.js test"
+    "test": "node calc.js test",
+    "test:integration": "./test.sh",
+    "setup": "./setup.sh"
   },
-  "keywords": ["calculator", "nodejs", "math"],
+  "keywords": ["calculator", "nodejs", "math", "cli"],
   "author": "GitLab Demo",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
 }
