@@ -1,0 +1,13 @@
+site_name: Git Labs
+site_author: Your Name
+
+nav:
+    - Home: index.md
+
+theme:
+    name: null
+    custom_dir: theme/
+
+markdown_extensions:
+    - toc:
+          permalink: true
