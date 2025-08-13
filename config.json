@@ -1,0 +1,17 @@
+{
+  "calculator": {
+    "version": "1.0.0",
+    "precision": 10,
+    "allowedOperations": ["add", "sub", "mul", "div"],
+    "errorHandling": {
+      "divisionByZero": true,
+      "invalidOperation": true,
+      "invalidNumbers": true
+    }
+  },
+  "logging": {
+    "enabled": false,
+    "level": "info",
+    "file": "logs/calculator.log"
+  }
+}
