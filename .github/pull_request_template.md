@@ -16,6 +16,7 @@ Fixes #<issue_number>
 - [ ] Other (please describe):
 
 ## Checklist
+
 - [ ] I have tested my changes locally
 - [ ] I have updated documentation if needed
 - [ ] My code follows the project's style guidelines
