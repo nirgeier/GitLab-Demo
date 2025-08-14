@@ -1,0 +1,23 @@
+{
+  "name": "gitlab-demo-calculator",
+  "version": "1.0.0",
+  "description": "A simple Node.js calculator application",
+  "main": "calc.js",
+  "scripts": {
+    "start": "node calc.js",
+    "test": "node calc.js test",
+    "test:integration": "./test.sh",
+    "setup": "./setup.sh"
+  },
+  "keywords": [
+    "calculator",
+    "nodejs",
+    "math",
+    "cli"
+  ],
+  "author": "GitLab Demo",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

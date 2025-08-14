@@ -6,7 +6,8 @@
  *   Normal mode: node calc.js <operation> <number1> <number2>
  *   Testing mode: node calc.js test
  * 
- * 
+ * @version 1.0.0
+ * @author GitLab Demo Team
  * Example: node calc.js add 5 3
  */
 
